@@ -1,5 +1,5 @@
 ### 你干嘛~ 哎嗨呦~
-![logo](https://github.com/oooonly/oooonly/assets/logo.svg)
+![logo](https://github.com/oooonly/oooonly/logo.svg)
 
 
 <!--
